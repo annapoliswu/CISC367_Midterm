@@ -1,2 +1,2 @@
-- [Messy File](html/messy-student-performance-analysis.html)
-- [Final File](html/final-student-performance-analysis.html)
+- [Messy File](html/messy-student-disparity-analysis.html)
+- [Final File](html/final-student-disparity-analysis.html)
